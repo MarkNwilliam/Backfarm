@@ -1,0 +1,17 @@
+Date,Animal Type,Animal ID,Condition,Temperature (°C),Weight (kg)
+2024-08-19,Cow,C-001,Healthy,38.5,450
+2024-08-19,Cow,C-002,Weak,39.2,430
+2024-08-19,Goat,G-001,Healthy,39.0,60
+2024-08-20,Cow,C-003,Healthy,38.7,460
+2024-08-20,Goat,G-002,Weak,39.5,55
+2024-08-20,Goat,G-003,Healthy,38.9,58
+2024-08-21,Cow,C-004,Weak,39.4,420
+2024-08-21,Cow,C-005,Healthy,38.6,470
+2024-08-22,Goat,G-004,Weak,39.6,52
+2024-08-22,Cow,C-006,Healthy,38.8,480
+2024-08-23,Goat,G-005,Healthy,39.1,61
+2024-08-23,Cow,C-007,Weak,39.3,425
+2024-08-24,Goat,G-006,Healthy,39.0,57
+2024-08-24,Cow,C-008,Healthy,38.5,460
+2024-08-25,Cow,C-009,Weak,39.7,410
+2024-08-25,Goat,G-007,Healthy,38.8,60
