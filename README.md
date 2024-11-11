@@ -30,7 +30,7 @@ The backend code for this project is available at:
 
 ### AI and Machine Learning
 
-- **Gemini AI**: We utilize gemini ai model, for natural language processing and generation. This powers our AI-driven insights across various farm management aspects.
+- **Google Ai studio Gemini AI**: We utilize the Gemini AI model, for natural language processing and generation. This powers our AI-driven insights across various farm management aspects.
 
 - **Prophet**: For time series forecasting, we use Facebook's Prophet library. It's particularly effective for sales forecasting with strong seasonal effects and several seasons of historical data.
 
